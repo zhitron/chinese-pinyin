@@ -16,7 +16,7 @@ public final class ChinesePinyin {
     /**
      * 单例实例，支持基本中文字符范围 (0x4E00 - 0x9FA6)
      */
-    public static final ChinesePinyin BASIC = new ChinesePinyin(0x4E00, 0x9FA6, "/chinese_pinyin_basic");
+    public static final ChinesePinyin BASIC = new ChinesePinyin(0x4E00, 0x9FA6, "/META-INF/chinese_pinyin/basic");
     /**
      * 无音调元音字符集合，用于音调标记替换
      * 包含 a, e, i, o, u, ü 六个基本元音字符

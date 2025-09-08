@@ -6,7 +6,7 @@
 
     <groupId>io.github.zhitron</groupId>
     <artifactId>chinese-pinyin</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>Chinese Pinyin</name>
     <description>
         A high-performance Java library for converting Chinese characters to Pinyin with accuracy. Supports tone marks, multiple pronunciations, and various output formats. Lightweight and easy to integrate.
